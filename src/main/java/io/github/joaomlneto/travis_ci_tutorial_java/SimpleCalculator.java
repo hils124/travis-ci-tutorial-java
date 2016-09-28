@@ -13,9 +13,4 @@ public class SimpleCalculator {
 	public int div(int a, int b) {
 		return a / b;
 	}
-	public static final void main(String[] args) {
-		System.out.println("Hello world?");
-		System.out.println("Additional new line.");
-		System.out.println("Added another new line.");
-	}
 }
