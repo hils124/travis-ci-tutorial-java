@@ -16,5 +16,6 @@ public class SimpleCalculator {
 	public static final void main(String[] args) {
 		System.out.println("Hello world?");
 		System.out.println("Additional new line.");
+		System.out.println("Added another new line.");
 	}
 }
